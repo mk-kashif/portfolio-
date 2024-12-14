@@ -25,7 +25,7 @@ Welcome to my personal portfolio website! This website showcases my skills, expe
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/portfolio-website.git
+    git clone https://github.com/mk-kashif/portfolio-website.git
     ```
 
 2. Navigate to the project directory:
