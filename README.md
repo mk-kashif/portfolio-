@@ -21,19 +21,8 @@ Welcome to my personal portfolio website! This website showcases my skills, expe
 - **FontAwesome**: For icons used in the website.
 - **GitHub Pages**: For hosting the portfolio website.
 
-## Installation
+## Preview Website
 
-1. Clone the repository to your local machine:
-    ```bash
-    git clone https://github.com/mk-kashif/portfolio-website.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd portfolio-website
-    ```
-
-3. Open `index.html` in your browser to view the portfolio.
 
 ## How to Contribute
 
